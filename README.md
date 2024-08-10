@@ -1,5 +1,5 @@
 # Wifi-speed-test
-This is a bash script i wrote to automate the process of checking your WiFi speed at regular intervals. It first checks whether the speedtest-cli utility is installed on your system. If not, it prompts you to install it and exits. Once confirmed, the script enters an infinite loop where it runs a speed test every 5 minutes, providing real-time feedback on your network performance. This is useful for monitoring your connection over time, especially in environments with fluctuating network quality.
+This is a bash script i wrote to automate the process of checking your WiFi speed at regular intervals. It first checks whether the speedtest-cli utility is installed on your system. If not, it prompts you to install it and exits. Once confirmed, the script enters an infinite loop where it runs a speed test every 5 minutes, providing real-time feedback on your network performance.
 
 To uses this code go into your teminal and use the command '''mkdir Wifi-test && cd Wifi-test'''
 then use '''nano speedtest.sh''' and copy the code to the file and hit ctrl + x, y, then enter to save the code
