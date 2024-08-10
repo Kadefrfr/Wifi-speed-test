@@ -13,3 +13,8 @@ then try running the program agian and it should work
 
 
 if you want to change how long to wait inbetween test just change the time in the sleep function (it counts in seconds)
+
+
+
+
+simplespeedtest.sh is the simplest design of the speed test i could write with speedtest-cli
