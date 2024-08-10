@@ -7,5 +7,6 @@ now that you have the file you need to type one more command to be able to run i
 simply type ```chmod +x ./speedtest.sh```
 and with that you are now ready to run the test simply run the command ```./speedtest.sh``` and it will get going
 
-now if you get a reply "speedtest-cli could not be found. Please install it first." you need to install Speedtest-cli use the command ```sudo apt install -y speedtest-cli```
+now if you get a reply "speedtest-cli could not be found. Please install it first." you need to install Speedtest-cli use the command 
+```sudo apt install -y speedtest-cli```
 then try running the program agian and it should work
