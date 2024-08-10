@@ -10,3 +10,6 @@ and with that you are now ready to run the test simply run the command ```./spee
 now if you get a reply "speedtest-cli could not be found. Please install it first." you need to install Speedtest-cli use the command 
 ```sudo apt install -y speedtest-cli```
 then try running the program agian and it should work
+
+
+if you want to change how long to wait inbetween test just change the time in the sleep function (it counts in seconds)
